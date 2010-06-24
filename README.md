@@ -1,7 +1,7 @@
 Inkscape Mockup Toolkit
 ===============================================================================
 
-*SVG UI Elements for Web Design*
+*SVG UI Elements for Web Design in Inkscape*
 
 This is a collection of UI elements in SVG format, for use in the creation of 
 design mockups. It is tailored for use with [Inkscape][1], but may be useful in
@@ -16,6 +16,6 @@ Objects are grouped for easier copying and pasting across documents, though to
 scale most objects you should either enter the group (double-click it) or 
 un-group it (CTRL-U).
 
-![Web UI Elements preview](web_ui_preview.png)
+![Web UI Elements preview](http://github.com/ajashton/Inkscape-Mockup-Toolkit/raw/master/web_ui_preview.png)
 
 [1]: http://inkscape.org/
