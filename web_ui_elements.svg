@@ -475,16 +475,6 @@
   </pattern>
   <linearGradient
     inkscape:collect="always"
-    xlink:href="#linearGradient21859-1"
-    id="linearGradient21865-6"
-    x1="-10"
-    y1="562.36218"
-    x2="90"
-    y2="562.36218"
-    gradientUnits="userSpaceOnUse"
-    gradientTransform="translate(-620,0)" />
-  <linearGradient
-    inkscape:collect="always"
     id="linearGradient21859-1">
    <stop
      style="stop-color:#ffffff;stop-opacity:1"
@@ -505,15 +495,6 @@
     id="linearGradient21882"
     xlink:href="#linearGradient21859-1"
     inkscape:collect="always" />
-  <linearGradient
-    inkscape:collect="always"
-    xlink:href="#gradient_blue"
-    id="linearGradient21990"
-    x1="572"
-    y1="498.36218"
-    x2="572"
-    y2="482.36218"
-    gradientUnits="userSpaceOnUse" />
   <linearGradient
     inkscape:collect="always"
     xlink:href="#gradient_blue"
@@ -544,8 +525,8 @@
    inkscape:pageopacity="0.0"
    inkscape:pageshadow="2"
    inkscape:zoom="1"
-   inkscape:cx="521.5"
-   inkscape:cy="240.5"
+   inkscape:cx="481.35124"
+   inkscape:cy="217.38497"
    inkscape:document-units="px"
    inkscape:current-layer="layer1"
    showgrid="false"
