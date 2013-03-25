@@ -16,6 +16,10 @@ Objects are grouped for easier copying and pasting across documents, though to
 scale most objects you should either enter the group (double-click it) or 
 un-group it (CTRL-U).
 
-![Web UI Elements preview](http://github.com/ajashton/Inkscape-Mockup-Toolkit/raw/master/web_ui_preview.png)
+![Web UI Elements preview](web_ui_preview.png)
 
 [1]: http://inkscape.org/
+
+## License
+
+[CC0](http://creativecommons.org/publicdomain/zero/1.0/)
